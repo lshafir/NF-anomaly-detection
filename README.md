@@ -56,7 +56,7 @@ git clone git@github.com:lshafir/NF-anomaly-detection.git
 cd NF-anomaly-detection
 ```
 
-3. Install dependencies:
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
